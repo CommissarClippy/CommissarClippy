@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm CommissarClippy!
 
-I'm a passionate **software engineer** specializing in **C#** and industrial automation. I thrive on building systems that don't just move data from A to B, but actually drive real-world change. My day-to-day work revolves around designing solutions that make physical things happen—from smart factories to configurable automation systems.
+I'm a passionate **software engineer** specializing in **C#** and industrial automation. I thrive on building systems that don't just move data from A to B, but actually drive real-world change. My work revolves around designing solutions that make physical things happen, from smart factories to configurable automation systems.
 
 ---
 
@@ -17,19 +17,19 @@ I'm a passionate **software engineer** specializing in **C#** and industrial aut
 ## 🛠️ Key Projects
 
 - **SCADA Automation for Corrugated Cardboard Factories (Past):**  
-  _Developed advanced WPF solutions for controlling and monitoring automated production lines._
+  _Developed an advanced SCADA system with an automation backend and a client written in WPF for controlling and monitoring automated production lines._
 
 ---
 
 ## 💡 What Drives Me
 
-I love building automation systems where data leads to real, visible change—moving parts, smarter processes, and a more efficient world. The puzzles and challenges of automation keep me inspired every day.
+I love building automation systems where data leads to real, visible changes, smarter processes, and a more efficient system. The puzzles and challenges of automation keep me inspired every day.
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages:** C#, SQL, XAML
+- **Languages:** C#, SQL
 - **Frameworks:** .NET, Blazor, WPF
 - **Platforms:** Docker, InfluxDB, PostgreSQL, Grafana, MQTT, IXON
 
